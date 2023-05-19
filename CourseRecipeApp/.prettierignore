@@ -1,0 +1,10 @@
+coverage
+dist
+e2e
+node_modules
+src/app/assets
+npm-debug.log*
+.browserslistrc
+
+# Ignore html files (for now)
+*.html
